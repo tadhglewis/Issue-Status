@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/tadhglewis/Documents/GitHub/issue-status/src/app/layout":["static/media/627622453ef56b0d-s.p.woff2","static/media/934c4b7cb736f2a3-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
